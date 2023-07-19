@@ -1,0 +1,1 @@
+Prepare = "qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM0123456789~!@#$%^&*<>+.;=}{`'-?"
